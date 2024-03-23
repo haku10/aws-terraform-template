@@ -15,8 +15,9 @@ infra のテンプレート
 | xxxx   | test 環境 |
 
 ## 構成
+- 下記の構成のものができる
 
-![aws drawio]()
+![237250865-11644d06-4d7c-4147-be55-4e2047f1a2cc](https://github.com/haku10/aws-terraform-template/assets/33565623/3cf4c39f-c750-457f-9631-856fe6314dd0)
 
 ## 環境
 
